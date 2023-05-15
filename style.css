@@ -66,6 +66,7 @@ body {
   flex: 30%;
   background-color: #000000;  /* otázka 6 */
   padding: 20px;
+  color: white;      /* otázka 6 */
 }
 
 /* Main column */
