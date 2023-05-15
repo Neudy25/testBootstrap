@@ -24,7 +24,7 @@ body {
 .navbar {
   overflow: hidden;
   background-color: #333;
-  position: sticky;
+  position: static;
   top: 0;
 }
 
